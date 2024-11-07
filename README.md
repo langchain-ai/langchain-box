@@ -1,8 +1,8 @@
-# 🦜️🔗 LangChain {partner}
+# 🦜️🔗 LangChain Box
 
-This repository contains 1 package with {partner} integrations with LangChain:
+This repository contains 1 package with Box integrations with LangChain:
 
-- [langchain-{package_lower}](https://pypi.org/project/langchain-{package_lower}/)
+- [langchain-box](https://pypi.org/project/langchain-box/)
 
 ## Initial Repo Checklist (Remove this section after completing)
 
@@ -59,5 +59,5 @@ Slack
 - [ ] Set up release alerting in Slack (ask Erick for help)
 
 release:
-/github subscribe langchain-ai/langchain-{partner_lower} releases workflows:{name:"release"}
-/github unsubscribe langchain-ai/langchain-{partner_lower} issues pulls commits deployments
+/github subscribe langchain-ai/langchain-box releases workflows:{name:"release"}
+/github unsubscribe langchain-ai/langchain-box issues pulls commits deployments
